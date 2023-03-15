@@ -2,6 +2,6 @@
 </script>
 
 <template>
-App Vue
+<p class="text-red-500">App Vue</p>
 </template>
 
