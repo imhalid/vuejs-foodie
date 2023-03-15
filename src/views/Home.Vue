@@ -1,7 +1,3 @@
-<template>
-    Hello Home
-    </template>
+<template>Hello Home</template>
 
-    <script setup>
-
-    </script>
+<script setup></script>
